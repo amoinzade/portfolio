@@ -16,7 +16,7 @@
     - Iowa_Liquor.pdf
 - Content:
     - Text report detailing EDA using Pandas and Matplotlib
-    - Powerpoint directed towards Iowa liquor providers on best-selling items.
+    - PowerPoint directed towards Iowa liquor providers on best-selling items.
 ##### Did the Paycheck Protection Program Keep NYC Restaurants Alive?
 - Data:
     - “DOHMH New York City Restaurant Inspection Results: NYC Open Data.”
@@ -30,7 +30,7 @@
 - Files:
     - employer_bias_jobseeking_parents.pdf
 - Content:
-    - Reseaerch experiment measuring average treatment effect of submitted job applications. Treatment based on inclusion or omission of parental identifiers on resume.
+    - Research experiment measuring average treatment effect of submitted job applications. Treatment based on inclusion or omission of parental identifiers on resume.
 ##### Pair Trading Algorithm for S&P 500.
 - Data:
     - Yahoo! Finance S&P 500, 5 years.
@@ -38,4 +38,4 @@
     - Pair_Trading_Final_Presentation.pdf, Pair_Trading_Final_v5.ipynb
 - Content:
     - Jupyter notebook report including data collection, transformation, EDA, preliminary clustering, cointegration analysis, time-series analysis and implementation of a pair-trading strategy.
-    - Powerpoint detailing context & workflow for entire pair trading algorithm.
+    - PowerPoint detailing context & workflow for entire pair trading algorithm.
